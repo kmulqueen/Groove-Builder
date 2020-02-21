@@ -1,0 +1,98 @@
+[{
+        "subdivision": "eighth",
+        "patterns": [{
+                "count": "x+"
+            },
+            {
+                "count": "x"
+            },
+            {
+                "count": "+"
+            },
+            {
+                "count": ""
+            }
+        ]
+    },
+    {
+        "subdivision": "triplet",
+        "patterns": [{
+                "count": "xtl"
+            },
+            {
+                "count": "xt"
+            },
+            {
+                "count": "tl"
+            },
+            {
+                "count": "xl"
+            },
+            {
+                "count": "x"
+            },
+            {
+                "count": "t"
+            },
+            {
+                "count": "l"
+            },
+            {
+                "count": ""
+            }
+        ]
+    },
+    {
+        "subdivision": "sixteenth",
+        "patterns": [{
+                "count": "xe+a"
+            },
+            {
+                "count": "xe+"
+            },
+            {
+                "count": "e+a"
+            },
+            {
+                "count": "x+a"
+            },
+            {
+                "count": "xea"
+            },
+            {
+                "count": "xe"
+            },
+            {
+                "count": "e+"
+            },
+            {
+                "count": "+a"
+            },
+            {
+                "count": "xa"
+            },
+            {
+                "count": "x+"
+            },
+            {
+                "count": "ea"
+            },
+            {
+                "count": "x"
+            },
+            {
+                "count": "e"
+            },
+            {
+                "count": "+"
+            },
+            {
+                "count": "a"
+            },
+            {
+                "count": ""
+            }
+        ]
+    }
+
+]

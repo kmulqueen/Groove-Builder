@@ -1,0 +1,19 @@
+[{
+
+        "pattern": "RLRL RLRL | RLRL RLRL",
+        "number": 1
+
+    },
+    {
+
+        "pattern": "LRLR LRLR | LRLR LRLR",
+        "number": 2
+
+    },
+    {
+
+        "pattern": "RRLL RRLL | RRLL RRLL",
+        "number": 3
+
+    }
+]
